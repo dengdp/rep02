@@ -2,3 +2,4 @@ text002.txt
 2nd line
 3rd line
 add a 4th line at dev branch
+a update @ master b
